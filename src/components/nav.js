@@ -1,5 +1,5 @@
 import React from 'react'
-import {FaStore} from 'react-icons/fa'
+import {FaStore, FaBeer} from 'react-icons/fa'
 import './nav.css'
 
 
@@ -9,11 +9,10 @@ function Nav(){
    
       <div className="container">
           <span className="icon">
-            
+            <FaStore/>
           </span>
-
-          
-
+          <FaStore/>
+          <FaBeer></FaBeer>
       </div>
        
    );

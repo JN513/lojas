@@ -11,10 +11,7 @@
 }
 
   span{
-  
-    
-    display: inline;
+    padding: 5px;
+    display: inline-block;
     background-color: red;
-   
-    
 }
