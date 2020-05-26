@@ -1,0 +1,20 @@
+.container{
+    background-color: rgba(211,211,211,0.6);
+    box-shadow:0.5rem 0.3rem 0.3rem rgba(50,50,50,0.30);
+    width: 85rem;
+    height: 4rem;
+    position: fixed;
+    right:1px;
+    
+    
+    margin-top: -1rem;
+}
+
+  span{
+  
+    
+    display: inline;
+    background-color: red;
+   
+    
+}
